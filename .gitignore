@@ -1,3 +1,15 @@
+# Project files
+config.json
+
+# Build files
+build
+cmake_build
+CMakeUserPresets.json
+
+# IDE files
+.[vV][sS][cC]ode*
+CMakeLists.txt.user
+
 # Prerequisites
 *.d
 
